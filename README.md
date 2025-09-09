@@ -1,2 +1,1 @@
-# beginning--bioinformatics
-beginning - bioinformatics Course work
+Arihant Ostwal + 1002230010 + BIOL5340 - 001
